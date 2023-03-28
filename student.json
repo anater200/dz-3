@@ -1,0 +1,27 @@
+{
+  "student": {
+    "name": "Ivan",
+    "surname": "Petrov",
+    "age": 21,
+    "gender": "male",
+    "nationality": "Ukrainian",
+    "birthday": "2002-01-01",
+    "height": 1.8,
+    "weight": 70,
+    "email": "ivan.petrov@example.com",
+    "phone": "+380501234567",
+    "isStudying": true,
+    "address": {
+      "city": "Kyiv",
+      "street": "Main Street",
+      "houseNumber": 10,
+      "apartmentNumber": 5
+    },
+    "subjects": ["Math", "Physics", "Chemistry"],
+    "languages": {
+      "native": "Ukrainian",
+      "fluency": ["English", "Russian"]
+    },
+    "children": null
+  }
+}
